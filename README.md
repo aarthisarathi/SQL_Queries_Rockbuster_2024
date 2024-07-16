@@ -1,5 +1,7 @@
 # Python_2024
 
+Instacart_Basket_Analysis_Python_2024
+
 The Instacart stakeholders are most interested in the variety of customers in their database
 along with their purchasing behaviors. They assume they can't target everyone using the
 same methods, and they’re considering a targeted marketing strategy. They want to target
