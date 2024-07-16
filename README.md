@@ -1,10 +1,20 @@
 # SQL_QUERY_CF_2024
 
-Instacart_Basket_Analysis_Python_2024
+                Rockbuster Movie Rental Analysis Project
 
-The Instacart stakeholders are most interested in the variety of customers in their database
-along with their purchasing behaviors. They assume they can't target everyone using the
-same methods, and they’re considering a targeted marketing strategy. They want to target
-different customers with applicable marketing campaigns to see whether they have an effect
-on the sale of their products. Your analysis will inform what this strategy might look like to
-ensure Instacart targets the right customer profiles with the appropriate products.
+Introduction:
+
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming
+services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to
+launch an online video rental service in order to stay competitive.
+
+Key Questions and Objectives:
+
+The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can
+use for their 2020 company strategy.
+Here are the main questions:
+ Which movies contributed the most/least to revenue gain?
+ What was the average rental duration for all videos?
+ Which countries are Rockbuster customers based in?
+ Where are customers with a high lifetime value based?
+ Do sales figures vary between geographic regions?
