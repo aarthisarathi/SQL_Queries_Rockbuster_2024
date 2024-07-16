@@ -1,4 +1,4 @@
-# Python_2024
+# SQL_QUERY_CF_2024
 
 Instacart_Basket_Analysis_Python_2024
 
